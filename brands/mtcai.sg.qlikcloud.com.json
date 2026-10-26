@@ -2,5 +2,6 @@
   "name": "Malayan Insurance",
   "logo": "https://notlath.github.io/qurio-oauth/brands/malayan-logo.png",
   "logoDark": "https://notlath.github.io/qurio-oauth/brands/malayan-logo-dark.png",
+  "mark": "https://notlath.github.io/qurio-oauth/brands/qurio-mark-blue.png",
   "primary": { "light": "#00529A", "dark": "#7FB2E5" }
 }
